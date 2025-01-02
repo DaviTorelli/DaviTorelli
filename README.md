@@ -4,15 +4,17 @@
 
 ## Socials:
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
 
-<p align="center">
+<div style="flex: 1; max-width: 200px;">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=davibt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
+</div>
 
-</p>
-
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviTorelli&show_icons=true&theme=synthwave)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=davibt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div style="flex: 2; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviTorelli&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+</div>
 
 </div>
 
