@@ -1,12 +1,20 @@
-# About Me:
+# Hi 👋, I'm Davi Torelli 
 
+## About Me
 
+🙋 I am an IT professional with nearly 3 years of experience in web development, specializing in back-end development and software analysis.
 
-## Socials:
+🔭 I’m currently working on [Enterscience](https://enterscience.com.br/) as a fullstack web developer.
+
+🔍 If you're seeking a dedicated and skilled professional to strengthen your team, feel free to reach out. Let’s discuss how I can contribute to your organization and help solve your challenges.
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/davitorelli/) and [Instagram](https://www.instagram.com/borgestorelli/).
+
+## Socials
 
 ![davi-github-stats](https://github-readme-stats.vercel.app/api?username=DaviTorelli&show_icons=true&theme=synthwave)
-[![davi-spotify-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=davibt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![davi-spotify-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=davibt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
