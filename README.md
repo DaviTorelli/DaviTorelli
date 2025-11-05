@@ -4,7 +4,7 @@
 
 🙋 I am an IT professional with nearly 3 years of experience in web development, specializing in back-end development and software analysis.
 
-🔭 I’m currently working at [Enterscience](https://enterscience.com.br/) as a fullstack web developer.
+🔭 I’m currently working at [Skyiit](https://www.linkedin.com/company/skyiit/) as a fullstack web developer.
 
 🔍 If you're seeking a dedicated and skilled professional to strengthen your team, feel free to reach out. Let’s discuss how I can contribute to your organization and help solve your challenges.
 
