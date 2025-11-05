@@ -2,7 +2,7 @@
 
 ## About Me
 
-🙋 I am an IT professional with nearly 3 years of experience in web development, specializing in back-end development and software analysis.
+🙋 I am an IT professional with nearly 4 years of experience in web development, specializing in back-end development and software analysis.
 
 🔭 I’m currently working at [Skyiit](https://www.linkedin.com/company/skyiit/) as a fullstack web developer.
 
